@@ -1,6 +1,6 @@
 using Newtonsoft.Json.Linq;
 
-namespace CKAN.NetKAN 
+namespace CKAN.NetKAN
 {
     // Assurances that given the metadata, the mod version, and the filename,
     // we will *modify* the metadata with whatever we've picked up from our
